@@ -40,6 +40,13 @@ input {
   background-color: transparent;
 
 }
+textarea{
+  background-color:aqua;
+}
+#male{
+  color:aqua;
+  background-color:aqua;
+}
 fieldset {
     margin-top: 50px;
   background-color: aqua;
